@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=quanganh0364896582&show_icons=true&theme=tokyonight)
+![stats]([https://github.com/quanganh0364896582-gif])
 
 ---
 
