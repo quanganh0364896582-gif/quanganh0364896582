@@ -13,6 +13,7 @@
 ## ⚙️ Tech Stack
 - Python
 - Machine Learning
+- Deep Learning
 
 ---
 
